@@ -1,4 +1,6 @@
 firebaseKey1.json
 ./firebaseKey1.json
 
+.env
+
 node_modules
